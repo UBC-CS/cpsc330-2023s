@@ -5,7 +5,11 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 - [2021W1](https://github.com/UBC-CS/cpsc330) by Varada Kolhatkar
 - [2021W2](https://github.com/UBC-CS/cpsc330-2021W2) by Giulia Toti.
 
-Instructor: Mehrdad Oveisi
+#### Instructor
+Mehrdad Oveisi
+- email: mehrdad.oveisi@ubc.ca
+- office: ICCS 255
+
 
 ## License
 
