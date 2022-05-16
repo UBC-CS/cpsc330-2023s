@@ -2,12 +2,12 @@
 
 ## Git 
 
-If you want to clone the class GitHub repository and run lecture notebooks locally, which is highly recommended, you will need `Git` on your computer. Check out the [git setup instructions](https://github.com/UBC-CS/cpsc330/blob/master/docs/git_installation.md). Also, most of our homework assignments will be done in JupyterLab. You don't have to do it but it might be easier for you to create a private GitHub repository for your homework assignments. 
+If you want to clone the class GitHub repository and run lecture notebooks locally, which is highly recommended, you will need `Git` on your computer. Check out the [git setup instructions](https://github.com/UBC-CS/cpsc330-2022s/blob/master/docs/git_installation.md). Also, most of our homework assignments will be done in JupyterLab. You don't have to do it but it might be easier for you to create a private GitHub repository for your homework assignments. 
 
 Once you have `Git` go to the directory where you want to do CPSC 330 work, and clone the Course GitHub repository using the following command on your command line. 
 
 ```
-git clone https://github.com/UBC-CS/cpsc330.git
+git clone https://github.com/UBC-CS/cpsc330-2022s.git
 ```
 
 When there are updates in the repository, you can update the local copy using the command below from the directory of the repository. 
@@ -55,6 +55,8 @@ which should return Python 3.9.0 or greater.
 
 ### Windows
 
+(Optionally, you can run Linux inside Windows. See the PROTIP below.)
+
 After installation, open the Start Menu and search for the program called “Anaconda Prompt (miniconda3)”. When this opens you will see a prompt similar to 
 
 ```
@@ -71,6 +73,10 @@ which should return Python 3.9.0 or greater.
 
 _Note: If instead you see Python 2.7.X you installed the wrong version. Uninstall the Miniconda you just installed (which usually lives in the /opt directory), and try the installation again, selecting Python 3.9._
 
+|PROTIP|
+|---|
+||
+|***Optionally, use WSL2 to run Linux inside Windows***. If you are using Windows, you may want to consider using Linux from within Windows. For more information, please search for "[Linux Subsystem For Windows 2](https://www.google.com/search?q=linux+subsystem+for+windows+2)" (WSL2). One recommended Linux distribution is Ubuntu (22.04 LTS). Installing WSL2 is easiest on Windows 11 which can now [install WSL from the Microsoft Store](https://www.bleepingcomputer.com/news/microsoft/windows-11-can-now-install-wsl-from-the-microsoft-store). If that does not work for you, here is an alternative installation method covered in this [example online tutorial](https://www.groovypost.com/howto/install-windows-subsystem-for-linux-in-windows-11). ***NOTE*** that the *course staff cannot provide support* use of WSL2 or Linux in general. However, if you feel you can manage it yourself, you are encouraged to do so because the ability to use Linux is a certainly a plus. ***NOTE2*** If your are using ***macOS***, you can ignore this tip as macOS is already a Unix-compliant system.|
 
 ## Installing Python packages
 
@@ -102,7 +108,7 @@ For other packages we need for the course, we will be creating a `conda` virtual
     conda env list
     ```
     You should see a list of environments as the output. If Miniconda is not installed, you can download Miniconda (a small, bootstrap version of Anaconda) from [here](https://docs.conda.io/en/latest/miniconda.html).  
-2. Download [cpsc330env.yml](https://github.com/UBC-CS/cpsc330/blob/master/docs/cpsc330env.yml) and put it in your working directory
+2. From your git repository, copy the configuration file `docs/cpsc330env.yml`, or download [cpsc330env.yml](https://github.com/UBC-CS/cpsc330-2022s/blob/master/docs/cpsc330env.yml), and put it in your working directory
 3. Create an environment by 
     ```
     conda env create -f cpsc330env.yml
