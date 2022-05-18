@@ -10,6 +10,11 @@ Mehrdad Oveisi
 - email: mehrdad.oveisi@ubc.ca
 - office: ICCS 255
 
+#### Course Coordinator
+Riley Knowles
+- email cpsc330-admin@cs.ubc.ca
+
+For all emails about CFA accommodations, extensions or exemptions due to sickness or extenuating circumstances, please email Riley Knowles at the above email address.
 
 ## License
 
@@ -40,7 +45,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 |Assessment  | Due date |  Where to find? | Where to submit? |
 |-------|-----------|-----------|-----------|
-| Syllabus quiz | May 19, 18:00  | [Canvas](https://canvas.ubc.ca/courses/97562) | [Canvas](https://canvas.ubc.ca/courses/97562) |
+| Syllabus quiz | May 23, 18:00  | [Canvas](https://canvas.ubc.ca/courses/97562) | [Canvas](https://canvas.ubc.ca/courses/97562) |
 | hw1 | May 19, 18:00 |  [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw2 | May 24, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw3 | May 27, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
@@ -96,7 +101,6 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 | June 10 |   [Clustering](lectures/14_k-means-clustering.ipynb) |  📹 <li>Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8),[14.2](https://youtu.be/s6AvSZ1_l7I),[14.3](https://youtu.be/M5ilrhcL0oY)</li>  | less depth |
 |        |  | **Datasets**: <li>[Jester 1.7M jokes ratings dataset](https://www.kaggle.com/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset)</li> |
 | June 10, 13 |   [Simple recommender systems](lectures/15_recommender-systems.ipynb) | | less depth ||
-| Nov 11 | _Midterm break - no class_  |  |
 | June 13 |  [Text data, embeddings, topic modeling](lectures/16_natural-language-processing.ipynb)  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>  |   new |
 | June 15 | [Neural networks and computer vision](lectures/17_intro_to_computer-vision.ipynb) | |   less depth |
 | June 15, 17 | [Time series data](lectures/18_time-series.ipynb) | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
@@ -116,9 +120,9 @@ We are working together on this course during a global pandemic. Everyone is str
 
 Here are some ground rules:
 
-- If you are unable to submit a deliverable on time, please reach out **before** the deliverable is due.
+- If you are unable to submit a deliverable on time, please reach out (cpsc330-admin@cs.ubc.ca) **before** the deliverable is due.
 - If you need extra support, the teaching team is here to work with you. Our goal is to help each of you succeed in the course.
-- If you are struggling with the material, the new hybrid teaching format, or anything else, please reach out. I will try to find time and listen to you empathetically.
+- If you are struggling with the material, the new hybrid teaching format, or anything else, please reach out (via cpsc330-admin@cs.ubc.ca or the [instructor](mailto:mehrdad.oveisi@ubc.ca) directly). I will try to find time and listen to you empathetically.
 - If I am unable to help you, I might know someone who can. UBC has some [great student support resources](https://students.ubc.ca/support).
 
 ### Covid Safety at UBC
@@ -155,12 +159,12 @@ Your precautions will help reduce risk and keep everyone safer. In this class, t
 - Attendance in classes and tutorials is not graded (although obviously beneficial when it is safe to attend).
 - All course notes will be provided online.
 - All homework assignments can be done and handed in online.
-- Video recordings from previous terms is available [on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM).
+- Video recordings from previous terms are available [on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM).
 - There will be at least some office hours which will be held online.
 
 
 **If sick on an exam day:**
-If you are sick on a midterm exam day, please contact the instructor through Piazza as soon as you are confident you should not come to the scheduled exam.  We would strongly prefer that you contact us to make an alternate arrangement than for you to come to the exam while you are ill.  If you do show up for an exam and you are clearly ill, you will not be able to write the exam and we will make alternate arrangements with you.  It is much better for you to email ahead of time and not attend.  Remember to include your full name and student number in your message.
+If you are sick on a midterm exam day, please contact the course coordinator (cpsc330-admin@cs.ubc.ca) as soon as you are confident you should not come to the scheduled exam.  We would strongly prefer that you contact us to make an alternate arrangement than for you to come to the exam while you are ill.  If you do show up for an exam and you are clearly ill, you will not be able to write the exam and we will make alternate arrangements with you.  It is much better for you to email ahead of time and not attend.  Remember to include your full name and student number in your message.
 
 If you are sick on a final exam day, **do not attend the exam**. You must apply for deferred standing (an academic concession) through Science Advising no later than 48 hours after the missed final exam/assignment. Students who are granted deferred standing write the final exam/assignment at a later date. Learn more and find the application online: https://science.ubc.ca/students/advising/concession
 
