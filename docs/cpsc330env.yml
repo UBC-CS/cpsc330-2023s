@@ -1,6 +1,7 @@
 name: 'cpsc330'
 channels:
   - conda-forge
+  - pytorch
   - defaults
 dependencies:
   - ipykernel
