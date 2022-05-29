@@ -55,7 +55,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 | hw2 | May 24, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw3 | May 28, 18:00 <br> ~May 27~ |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw4 | June 01, 18:00 <br> ~May 31~  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
-| **Midterm** | June 03, during class time|[Canvas](https://canvas.ubc.ca/courses/97562) | [Canvas](https://canvas.ubc.ca/courses/97562) |
+| **Midterm** | June 03,<br> 9:30 to 10:45 | Location: [CIRS 1250](https://learningspaces.ubc.ca/classrooms/cirs-1250) <br> More [Info on Piazza](https://piazza.com/class/l2wy4l83juo5jo?cid=131) | [Canvas](https://canvas.ubc.ca/courses/97562) |
 | hw5 | June 07, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw6 | June 13, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw7 | June 16, 18:00  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
