@@ -327,7 +327,7 @@ def plot_confusion_matrix_ex(tn, fp, fn, tp, target='Fraud'):
     plt.text(.90, .7, confusion[0, 1], size=45, horizontalalignment='right')
     plt.text(.90, 0.2, confusion[1, 1], size=45, horizontalalignment='right')
     plt.xticks([.25, .75], ["predicted not " + target, "predicted " + target], size=20, rotation=25)
-    plt.yticks([.25, .75], ["true " + target, "true not " + target ], size=20)
+    plt.yticks([.25, .75], ["actual " + target, "actual not " + target ], size=20)
     plt.plot([.5, .5], [0, 1], '--', c='k')
     plt.plot([0, 1], [.5, .5], '--', c='k')
 
@@ -339,7 +339,7 @@ def plot_confusion_matrix_example(tn, fp, fn, tp, target='Fraud'):
     fig, ax = plt.subplots(1, 2, figsize=(20, 6), subplot_kw={'xticks': (), 'yticks': ()})
 
     plt.setp(ax, xticks=[.25, .75], xticklabels=["predicted not " + target, "predicted " + target],
-       yticks=[.25, .75], yticklabels=["true " + target, "true not " + target ])    
+       yticks=[.25, .75], yticklabels=["actual " + target, "actual not " + target ])    
     confusion = np.array([[tn, fp], [fn, tp]])
     ax[0].text(0.40, .7, confusion[0, 0], size=45, horizontalalignment='right')
     ax[0].text(0.40, .2, confusion[1, 0], size=45, horizontalalignment='right')
