@@ -764,7 +764,7 @@ def plot_deck(group_by, w, h):
         ax.set_yticks(range(1, 3))
         ax.set_yticklabels(colors, fontsize=16)
         
-def plot_update_centroid(data, w, h, new_centroids, centroids, dist):
+def plot_update_centroid(data, new_centroids, centroids, dist, w=6, h=4):
     colors = np.array(['black', 'blue', 'red', 'green', 'purple'])
     plt.figure(figsize=(w, h))
     plt.scatter(data.iloc[:, 0], data.iloc[:, 1],
@@ -786,7 +786,7 @@ def plot_update_centroid(data, w, h, new_centroids, centroids, dist):
                   head_width=.1, head_length=aux[i], fc=colors[i], ec=colors[i])
 
 
-def plot_iterative(data, w, h, starting_centroid):
+def plot_iterative(data, starting_centroid, w=6, h=4):
     k = starting_centroid.shape[0]
     colors = np.array(['black', 'blue', 'red', 'green', 'purple'])
     x = data.iloc[:, 0:2].to_numpy()
@@ -818,7 +818,7 @@ def plot_iterative(data, w, h, starting_centroid):
     plt.title("Iterative process", fontdict={'fontsize': w+h})
 
 
-def plot_silhouette_dist(w, h):
+def plot_silhouette_dist(w=6, h=4):
 
     n = 30
     df, target = make_blobs(n_samples=n,
@@ -922,7 +922,7 @@ def plot_first_assignment(data, centroids, dist, w, h):
     plt.title("First round of assignment - Step #1",
               fontdict={'fontsize': w+h})
 
-def plot_silhouette_dist(w, h):
+def plot_silhouette_dist(w=6, h=4):
 
     n = 30
     df, target = make_blobs(n_samples=n,
@@ -974,4 +974,4 @@ def plot_X_k_means(X, k=2):
     mglearn.discrete_scatter(X[:, 0], X[:, 1], kmeans.labels_, markers='o', ax=ax[1])
     mglearn.discrete_scatter(
         kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], colours, 
-        markers='*', markeredgewidth=1.0, ax=ax[1])    
+        markers='*', markeredgewidth=1.0, ax=ax[1])
