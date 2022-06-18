@@ -59,9 +59,8 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 | hw5 | June 07, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw6 | June 13, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
 | hw7 | June 16, 18:00  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
-| hw8 | June 21, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|
-| **Final exam** | TBD | TBD | TBD |
-
+| hw8 | June 21, 18:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2022s/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032) |
+| **Final exam** | June 28,<br> 8:30 to 11:00 | Location: [CIRS 1250](https://learningspaces.ubc.ca/classrooms/cirs-1250) <br> More [Info on Piazza](https://piazza.com/class/l2wy4l83juo5jo?cid=372) | [Canvas](https://canvas.ubc.ca/courses/97562) |
 
 
 ## Lecture schedule (tentative)
@@ -109,7 +108,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 | June 13 |  [Text data, embeddings, topic modeling](lectures/16_natural-language-processing.ipynb)  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>  |   new |
 | June 15 | [Neural networks and computer vision](lectures/17_intro_to_computer-vision.ipynb) | |   less depth |
 | June 15, 17 | [Time series data](lectures/18_time-series.ipynb) | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
-| June 17 | [Survival analysis](lectures/19_survival-analysis.ipynb) | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
+| June 17 | [Survival analysis](lectures/19_survival-analysis.ipynb) | 📹 (Optional but highly recommended) [Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
 |  | **Part III: Communication, ethics, deployment**  | |
 | June 20  |  [Ethics](lectures/20_ethics.ipynb) |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
 | June 20, 22 | [Communication](lectures/21_communication.ipynb) | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
