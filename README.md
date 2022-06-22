@@ -113,6 +113,10 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 | June 20  |  [Ethics](lectures/20_ethics.ipynb) |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
 | June 20, 22 | [Communication](lectures/21_communication.ipynb) | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
 | June 22 | [Model deployment and conclusion](lectures/22_deployment-conclusion.ipynb) |  |  new |
+| June 22 | [(Optional) Stochastic Gradient Descent](lectures/23_optional__sgd.ipynb) |  |   |
+| June 22 | [(Optional) Combining Multiple Tables](lectures/24_optional__multiple_tables.ipynb) |  |   |
+
+<br><br>
 
 The following is a very compact version of the course tentative schedule:
 
