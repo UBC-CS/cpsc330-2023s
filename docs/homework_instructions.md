@@ -1,13 +1,13 @@
 # Homework info & submission guidelines
 
-You will be submitting your homework assignments on Gradescope. Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/). 
+You will be submitting your homework assignments on Gradescope. Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/).
 
 ## Accessing homework assignments
-Every homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2022s) under the `hw` folder. Once it's available, I'll make an announcement on [Piazza](https://piazza.com/class/l2wy4l83juo5jo). The assignment will generally consist of a jupyter notebook along with necessary code and data or links to download the data.    
+Every homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2023s) under the `hw` folder. Once it's available, I'll make an announcement on Piazza. The assignment will generally consist of a Jupyter notebook along with necessary code and data or links to download the data. You will have to setup your computer so that you can work on these assignments locally. See this document for [setup instructions](setup.md).
 
 ## How to submit
 
-We anticipate that you will do `git pull` in your local course repository when the homework is made released. You may work on your homework locally or in a private GitHub repository, which provides you with a backup, version control for your work, a way to collaborate with others, to show unfinished work to instructors and ask for help, etc. To submit your homework you must **submit your final version of the notebook to [Gradescope](https://www.gradescope.ca/courses/5032)** where it will be graded. 
+We anticipate that you will do `git pull` in your local course repository when the homework is made released. You may work on your homework locally or in a private GitHub repository, which provides you with a backup, version control for your work, a way to collaborate with others, to show unfinished work to instructors and ask for help, etc. To submit your homework you must **submit your final version of the notebook to [Gradescope](https://www.gradescope.ca/courses/5032)** where it will be graded.
 
 Once you submit to Gradescope, you should go there and ensure your assignment is there as expected and all the output and plots are rendered properly. **It is your responsibility to make sure your assignment is submitted properly and failure to do so will result in a deduction of marks.**
 
@@ -19,9 +19,9 @@ Unless otherwise noted, if you download a dataset for your assignment, please do
 
 ### Report format
 
-Your final report must be submitted online as a Jupyter notebook, so please do not write up your answers on paper! 
+Your final report must be submitted online as a Jupyter notebook, so please do not write up your answers on paper!
 
-Be sure that your answers are clearly written and easy for the TA to understand. The TAs have the option to reduce your mark if your answers aren't clear or are difficult to understand (even if they are correct). 
+Be sure that your answers are clearly written and easy for the TA to understand. The TAs have the option to reduce your mark if your answers aren't clear or are difficult to understand (even if they are correct).
 
 Please do not delete the question cells or move the questions around. This will make things easier for the TAs.
 
@@ -39,12 +39,12 @@ In most assignments, you will be asked to produce plots/figures. When including 
 - Regardless of your image formats, all text must be big enough to read without straining or zooming. Please be careful about this for axis labels, legends, titles, etc. Avoid tiny text!
 
 ## Partners
-**You must work alone for Homework 1.** For Homework 2 onwards, group submissions may be allowed and will be instructed for each homework.
+**You must work alone for hw1 and hw2.** For hw3 onwards, I might consider allowing group submissions, which will be specified for each homework.
 
 ## Late submissions
 By default late submissions will not be accepted. The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. I do not like this, but I believe the overall policy is best for the class as a whole.
 
-_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2022s/blob/master/docs/course_info.md#academic-concessions) for more info.
+_In exceptional circumstances_ we may find other solutions to help you after you submit an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2023s/blob/main/docs/course_info.md#academic-concessions) for more info.
 
 ## Updates to assignments
 
@@ -52,4 +52,3 @@ If there are errors or other changes that need to be made to an assignment, I wi
 
 ## Citing sources
 If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. **You will receive a mark of 0 for the assignment (and possibly other consequences) if you are found copying from other sources without citation**.
-

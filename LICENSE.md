@@ -19,10 +19,7 @@ license terms.
 Under the following terms:
 
 * **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Varada Kolhatkar and Mike  Gelbart, where practical, linking to http://cpsc330.com/), provide a [link to the
-  license][cc-by-human], and indicate if changes were made. You may do
-  so in any reasonable manner, but not in any way that suggests the
-  licensor endorses you or your use.
+  your work is derived from work that is Copyright © © 2021 Varada Kolhatkar, Mike Gelbart, and Mehrdad Oveisi, where practical, linking to [https://github.com/UBC-CS/cpsc330][https://github.com/UBC-CS/cpsc330]), provide a [link to the license][cc-by-human], and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions**---You may not apply legal terms or
 technological measures that legally restrict others from doing

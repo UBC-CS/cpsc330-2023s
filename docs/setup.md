@@ -2,12 +2,12 @@
 
 ## Git 
 
-If you want to clone the class GitHub repository and run lecture notebooks locally, which is highly recommended, you will need `Git` on your computer. Check out the [git setup instructions](https://github.com/UBC-CS/cpsc330-2022s/blob/master/docs/git_installation.md). Also, most of our homework assignments will be done in JupyterLab. You don't have to do it but it might be easier for you to create a private GitHub repository for your homework assignments. 
+If you want to clone the class GitHub repository and run lecture notebooks locally, which is highly recommended, you will need `Git` on your computer. Check out the [git setup instructions](https://github.com/UBC-CS/cpsc330-2023s/blob/main/docs/git_installation.md). Also, most of our homework assignments will be done in JupyterLab. You don't have to do it but it might be easier for you to create a private GitHub repository for your homework assignments.
 
-Once you have `Git` go to the directory where you want to do CPSC 330 work, and clone the Course GitHub repository using the following command on your command line. 
+Once you have `Git` go to the directory where you want to do CPSC 330 work, and clone the Course GitHub repository using the following command on your command line.
 
 ```
-git clone https://github.com/UBC-CS/cpsc330-2022s.git
+git clone https://github.com/UBC-CS/cpsc330-2023s.git
 ```
 
 When there are updates in the repository, you can update the local copy using the command below from the directory of the repository. 
@@ -15,6 +15,9 @@ When there are updates in the repository, you can update the local copy using th
 ```
 git pull
 ```
+
+- If you prefer a GUI, you can try [GitHub Desktop](https://desktop.github.com/).
+- Learn about git commands [here](https://git-scm.com/docs/user-manual) or go through this [step-by-step tutorial](https://opensource.com/article/18/1/step-step-guide-git).
 
 ## Python and Conda
 
@@ -29,7 +32,7 @@ To make sure that miniconda and Python are correctly installed, follow the instr
 After installation, go to spotlight search on your macbook and type "terminal" and go to this program. If you already have terminal open,  restart it. If the installation was successful, you will see (base) prepending to your prompt string. For example, here is how the terminal prompt looks like on my macbook. 
 
 ```
-(base) kvarada@CPSC-W-KVARADA01:~$
+(base) username@MACHINE-NAME:~$
 ```
 
 To confirm that conda is working, you can ask it which version was installed:
@@ -108,7 +111,7 @@ For other packages we need for the course, we will be creating a `conda` virtual
     conda env list
     ```
     You should see a list of environments as the output. If Miniconda is not installed, you can download Miniconda (a small, bootstrap version of Anaconda) from [here](https://docs.conda.io/en/latest/miniconda.html).  
-2. From your git repository, copy the configuration file `docs/cpsc330env.yml`, or download [cpsc330env.yml](https://github.com/UBC-CS/cpsc330-2022s/blob/master/docs/cpsc330env.yml), and put it in your working directory
+2. Download [cpsc330env.yml](https://github.com/UBC-CS/cpsc330-2023s/blob/main/docs/cpsc330env.yml) and put it in your working directory
 3. Create an environment by 
     ```
     conda env create -f cpsc330env.yml
@@ -126,7 +129,7 @@ For other packages we need for the course, we will be creating a `conda` virtual
     ```    
 6. We are all set! When you want to run the lecture materials or work on your homework, start Jupyter Lab from your base environment, as shown below.
 
-```(base) kvarada@CPSC-W-KVARADA01:~$ jupyter lab```
+```(base) username@MACHINE-NAME:~$ jupyter lab```
 
 Jupyter Lab will be opened in your default browser. Navigate to the appropriate notebook in Jupyter Lab. When you open the notebook, you should see our newly created `conda` environment `cpsc330` there. See the screenshots below. Select `cpsc330` as the preferred kernel. 
 
@@ -147,7 +150,7 @@ If the `conda env create -f cpsc330env.yml` command above results in an error on
 - Get rid of the line with that package from your local copy of `cpsc330env.yml`. 
 - Try creating the environment again with the modified `cpsc330env.yml`. 
 - Once the environment is created, activate the environment and install the missing packages manually in the environment. You may have to install these packages using `pip install` in some cases, as the most recent version of the package might not available via `conda` for your operating system yet. 
-- If you still have trouble with the environment and running lecture notebooks on your machine, make use of office hours and tutorials. 
+- If you still have trouble with the environment and running lecture notebooks on your machine, make use of office hours and tutorial sessions. 
 
 ## Credit
 

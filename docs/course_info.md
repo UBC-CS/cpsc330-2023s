@@ -1,6 +1,7 @@
-# Course information
+# Syllabus
 
-[UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-911-2022s)
+- [UBC course URL: 911](https://www.cs.ubc.ca/course-section/cpsc-330-911-2023s)
+- [UBC course URL: 912](https://www.cs.ubc.ca/course-section/cpsc-330-912-2023s)
 
 ## Course description
 
@@ -11,50 +12,50 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 **Lectures**:
 
-| Day  | Time   | Location |
-|----------|--------|------|
-| Mon Wed Fri  | 9:30 - 12:00  | [FSC 1005](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=FSC&roomID=1005) |
+| Section | Day  | Lecture | Office Hour | Location |
+|-|-|-|-|-|
+| 911 | Tue, Thu  | 13:30 - 17:00 | 17:00 - 18:00 | [FSC 1005](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=FSC&roomID=1005) |
+| 912 | Wed, Fri  | 13:30 - 17:00 | 17:00 - 18:00 | [DMP 110](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=DMP&roomID=110) |
 
-**Tutorials**:
-The tutorials for this class will be run by the TAs and will be in the office hour format. We are planning to have at least one tutorial and/or office hours on Zoom each week to support hybrid learning. This information will be updated in the course calendar on [Canvas](https://canvas.ubc.ca/courses/97562).
 
-| Section | Day  | Time   | Location |
-|---|---|---|---|
-| T1A | Mon Wed | 12:30 - 13:30 | [ICICS/CS 014](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=014) |
-| T1B | Mon Wed | 13:30 - 14:30 | [ICICS/CS 014](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=014) |
-| T1C | Mon Wed | 14:30 - 15:30 | [ICICS/CS 014](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=014) |
-| T1D | Mon Wed | 15:30 - 16:30 | [ICICS/CS 014](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=014) |
+**Tutorials and office hours**:
+For tutorial and office hours time and locations check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). The tutorials for this class will be run by the TAs and will be in office hours format. The tutorials are **optional**. That said, you will have more one-on-one time with the TAs and you are likely learn more about machine learning in general if take advantage of this.
 
-**Office hours**: See the course calendar on [Canvas](https://canvas.ubc.ca/courses/97562).
+**Post-lecture office hours**:
+Both the instructor and TA(s) will be present during the post-lecture office hours (which are after each class in the same classroom). During the post-lecture office hours:
+- For conceptual questions regarding materials covered in lectures, talk to the instructor.
+- For questions regarding assignments or technical issues, talk to the TA(s).
 
 ## Teaching Team
 
-**Instructor**: Mehrdad Oveisi
+**Instructor**: Mehrdad Oveisi (moveisi@cs.ubc.ca)
 
-For the course, please exclusively use the email address:  mehrdad.oveisi@ubc.ca
+**Course Coordinator**: Jeffrey Ho (cpsc330-admin@cs.ubc.ca)
 
 **Teaching Assistants**:
-
-| Name | Preferred  Name | Preferred email |
-|---|---|---|
-| Brianna Dungate | Brie | bdungate@student.ubc.ca
-| Ali Behrouz | Ali | alibez@cs.ubc.ca
-| Mohammad Taha Askari | Taha | mohammadtaha@ece.ubc.ca
-| Jianhao Cao | Jianhao | jhcao@student.ubc.ca
-| Niloofar Khoshsiyar | Nil | nkhosh@cs.ubc.ca
-| Ruiyu Gou | Ruiyu | gouruiyu@student.ubc.ca
-| Austin Beauchamp | Austin | beauch@cs.ubc.ca
-| Aina Adekunle | Aina | aina@phas.ubc.ca
-| Andrew Evans | Andrew | andrewe@student.ubc.ca
-| Peyman Gholami | Peyman | peymang@cs.ubc.ca
-
+- Aninta, Sambina
+- Chockkalingam, Shruthi
+- DeMarco, Michael
+- GARG, ANUBHAV
+- Gholami, Peyman
+- Gonzalez Pizarro, Felipe
+- Liu, Chen
+- Lou, Martin
+- Rideout, Colleen
+- Thoma, Ethan
+- Wei, Ming Chun
+- Yang, Yilin
+- Yeryomenko, Yegor
+- Zaleski, Grayden
+- Zarei, Mahsa
+- Zhu, Weiya
+- Zung, Lauren
 
 ## Registration
 
 **Waitlists**:
 
-The general seats available in this class usually fill up very quickly. 
-Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. I have no control over the situation and I cannot help you bypass the waiting list.
+The general seats available in this class usually fill up very quickly. Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. I have no control over the situation and I cannot help you bypass the waiting list.
 
 **Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). I was told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
 
@@ -62,36 +63,48 @@ In practice, the prerequisite is familiarity with Python programming.
 
 **Auditing**: If the course is full, we cannot accommodate official auditors. If there is space and you would like to audit the course, please contact the instructor. All UBC students are welcome to audit the course unofficially. 
 
-## Grading
+## Grading scheme
  
 The grading scheme for the course is as follows:
 
 | Component   | Weight          | Location   |
 |-------------|-----------------|------------|
-| Syllabus quiz |   1%           | [Canvas](https://canvas.ubc.ca/courses/97562) | 
-| Assignments |     30%         | [Gradescope](https://www.gradescope.ca/courses/5032) |
-| Midterm     |     19%         | [Canvas](https://canvas.ubc.ca/courses/97562)     |
-| Final       |     50%         | [Canvas](https://canvas.ubc.ca/courses/97562)     |
+| Syllabus quiz |   1%          | [Canvas](https://canvas.ubc.ca/courses/101888) | 
+| iClicker   |   2% | iClicker (TBA) |
+| Assignments |     20%         | [Gradescope](https://www.gradescope.ca/courses/5032) |
+| Midterm*   |     25%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
+| Final*     |     52%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
 
-The plan is that most of the assignments will contribute equally towards the overall Assignments grade. However, this is not yet finalized yet. For example, the last assignment ends up particularly short or long due to timing. Furthermore, I will drop your lowest homework grade. 
+*In order to pass the course, you must pass at least one of: (1) the final exam, or (2) a weighted average of the midterm and final exam.
 
-For the full policy on grades, see [this document](grades.md).
+### iClicker
+Here are a few points regarding iClicker:
+- 1% participation, 1% correctness
+- Exemptions will not be granted for missed iClickers under any circumstances. 
+- You may fully discuss any and all iClicker questions in class with your classmates, with no restrictions.  However, you may not submit iClicker answers on behalf of your neighbors under any circumstances.
 
-For the grading scheme I wish we could use, see [here](https://youtu.be/HdHlfiOAJyE?t=3771).
+### Assignments
+
+The plan is that most of the assignments will contribute equally towards the overall Assignments grade. However, this is not finalized yet. For example, the last assignment ends up particularly short or long due to timing. Furthermore, I will drop your lowest homework grade. **By default, late submissions will not be accepted.** The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. I do not like this, but I believe the overall policy is best for the class as a whole. See [this document](homework_instructions.md) for more detailed instructions on submitting homework assignments. 
+
+For the full policy on grades, see [this document](grades.md). I understand that grades are important for you for several reasons. But try not to focus too much on them. You will have a better learning experience and in general, you'll be happier in life if you focus more on learning the material well. For the grading scheme I wish we could use [this](https://youtu.be/HdHlfiOAJyE?t=3771).
+
+
+### Midterm
+
+Check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) for midterm date and time. More details about the midterm will be announced on Piazza closer to the exam time.
+
+**Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section below. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
+
+### Final exam
+
+The final exam will be held during the exam period. More details about the midterm will be announced on Piazza closer to the exam time.
+
+Both midterm and final exams will be in-person but online with a BYOD (bring your own device) policy.
 
 ## Academic concessions
 
-UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20190515_V_135_Academic_Concession-Approved.pdf) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." If you would like to request an academic concession, please fill out the [academic concession form](https://github.com/UBC-CS/cpsc330-2022s/blob/master/docs/ConcessionForm.pdf) and email it to the instructor as soon as possible. You may be asked for further documentation. The instructor will evaluate the situation and make a decision on whether to grant the concession and, if so, how to proceed.
-
-## Midterm
-
-The midterm exam will take place on **June 03, 2022** during class time. The exam will be on [Canvas](https://canvas.ubc.ca/courses/97562) and you will have 75 minutes to complete it.
-
-**Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section above. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
-
-## Final exam
-
-The final exam will be held during the exam period (TBD).
+UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20190515_V_135_Academic_Concession-Approved.pdf) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." If you would like to request an academic concession, please fill out the [academic concession form](https://github.com/UBC-CS/cpsc330/blob/master/docs/ConcessionForm.pdf), clearly specify what kind of concession are you asking for, and email it to the course coordinator as soon as possible. You may be asked for further documentation. We will evaluate the situation and make a decision on whether to grant the concession and, if so, how to proceed.
 
 ## Code of conduct
 
@@ -101,72 +114,37 @@ The final exam will be held during the exam period (TBD).
 - If you commit to working with a partner on an assignment, do your fair share of the work.
 - If you have a problem or complaint, let the instructor(s) know immediately. Maybe we can fix it!
 
-## Working during the COVID-19 global pandemic
+## [Covid Safety at UBC](https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/#COVID-19%20Campus%20Rules)
 
-We are working together on this course during a global pandemic. Everyone is struggling to some extent. If you tell me you are having trouble, I am not going to judge you or think less of you. I hope you will extend me the same grace!
+Please read [Covid Campus Rules](https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/#COVID-19%20Campus%20Rules).  
 
-Here are some ground rules:
-
-- If you are unable to submit a deliverable on time, please reach out **before** the deliverable is due.
-- If you need extra support, the teaching team is here to work with you. Our goal is to help each of you succeed in the course.
-- If you are struggling with the material, the new hybrid teaching format, or anything else, please reach out. I will try to find time and listen to you empathetically.
-- If I am unable to help you, I might know someone who can. UBC has some [great student support resources](https://students.ubc.ca/support).
-
-### Covid Safety at UBC
-
-**Masks:** This class is going to be (mostly) in person. Masks are required indoors, including in classrooms, as per the [BC Public Health Officer orders](https://www2.gov.bc.ca/gov/content/covid-19/info/restrictions#masks). For the purposes of this order, the term "masks" refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask anytime you are indoors at UBC, for your own protection, and the safety and comfort of everyone else in the class. Please do not eat in the classroom. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcomed in our class.
-
-**Seating in class:** To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning.
-
-**Questions after class:**
-- We realize that many of you may have questions immediately after class and that this is a convenient time to ask them.
-- To help increase the safety of everyone, please ***remain seated***, and your questions will be answered one by one.
-- If you need to talk to or show something to the instructor or TAs, you can come to the front one by one.
-- The classroom is booked for one hour after each class (12:00 - 13:00), so there will be enough time for all questions.
-- Please vacate the room if your question(s) are answered and you are not planning to listen and learn from questions by other students. That is, please do not stay in the classroom for any other reason than course-related, after-class activities.
-- Also, keep in mind that if you have questions about lecture content or operational aspects of the course, you can always post them to Piazza.
-
-**Vaccination:** If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus [http://www.vch.ca/covid-19/covid-19-vaccine]. The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so.
-
-**COVID-19 testing:** UBC will require COVID-19 testing for all students, faculty and staff, with exemptions provided for those who are vaccinated against COVID-19: [https://news.ubc.ca/2021/08/26/ubc-implements-vaccine-declaration-and-rapid-testing-for-covid-19/]
+**Masks:** This class is going to be in person. UBC no longer requires students, faculty and staff to wear non-medical masks, but continues to recommend that masks be worn in indoor public spaces.  
 
 **Your personal health:**
-If you're sick, it's important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). A daily self-health assessment is required before attending campus. Every day, before leaving home, complete the self-assessment for Covid symptoms using [this tool](https://bc.thrive.health/covid19/en ).
+If you are ill or believe you have COVID-19 symptoms or been exposed to SARS-CoV-2 use the [Thrive Health](https://bc.thrive.health/covid19/en) self-assessment tool for guidance, or download the [BC COVID-19 Support App](https://welcome.thrive.health/bc-covid19-app) for iOS or Android device and follow the instructions provided. Follow the advice from [Public Health](https://www2.gov.bc.ca/gov/content/covid-19/info/restrictions).
 
-Stay home if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor.
-
-
-**Your personal health:**
-If you're sick, it's important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). A daily self-health assessment is required before attending campus. Every day, before leaving home, complete the self-assessment for Covid symptoms using [this tool](https://bc.thrive.health/covid19/en ).
-
-
-Stay home if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor.
-
+Stay home if you have recently tested positive for COVID-19 or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor. 
+ 
 Your precautions will help reduce risk and keep everyone safer. In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed:
-- Attendance in classes and tutorials is not graded (although obviously beneficial when it is safe to attend).
 - All course notes will be provided online.
 - All homework assignments can be done and handed in online.
-- Video recordings from previous terms is available [on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM).
-- There will be at least some office hours which will be held online.
+- All exams will be held online. (But you need to be present in the classroom to write the exam unless there is a legitimate reason for not doing so.)
+- There are pre-watch [videos on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) to facilitate hybrid learning.
+- There will be at least a few office hours which will be held online.
 
 
-**If sick on an exam day:**
-If you are sick on a midterm exam day, please contact the instructor through Piazza as soon as you are confident you should not come to the scheduled exam.  We would strongly prefer that you contact us to make an alternate arrangement than for you to come to the exam while you are ill.  If you do show up for an exam and you are clearly ill, you will not be able to write the exam and we will make alternate arrangements with you.  It is much better for you to email ahead of time and not attend.  Remember to include your full name and student number in your message.
+Here are some ground rules:
+- If you are unable to submit a deliverable on time, please reach out **before** the deliverable is due.
+- If you need extra support, the teaching team is here to work with you. Our goal is to help each of you succeed in the course.
+- If you are struggling with the material or anything else, please reach out. I will try to find time and listen to you empathetically.
+- If I am unable to help you, I might know someone who can. UBC has some [great student support resources](https://students.ubc.ca/support).
 
-If you are sick on a final exam day, **do not attend the exam**. You must apply for deferred standing (an academic concession) through Science Advising no later than 48 hours after the missed final exam/assignment. Students who are granted deferred standing write the final exam/assignment at a later date. Learn more and find the application online: https://science.ubc.ca/students/advising/concession
-
-For additional information about academic concessions, see the UBC policy here:http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,329,0,0
-
-
-## Official statement from UBC regarding the online learning experience:
-
->*During this pandemic, the shift to online learning has greatly altered teaching and studying at UBC, including changes to health and safety considerations. Keep in mind that some UBC courses might cover topics that are censored or considered illegal by non-Canadian governments. This may include, but is not limited to, human rights, representative government, defamation, obscenity, gender or sexuality, and historical or current geopolitical controversies. If you are a student living abroad, you will be subject to the laws of your local jurisdiction, and your local authorities might limit your access to course material or take punitive action against you. UBC is strongly committed to academic freedom, but has no control over foreign authorities (please visit http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,33,86,0 for an articulation of the values of the University conveyed in the Senate Statement on Academic Freedom). Thus, we recognize that students will have legitimate reason to exercise caution in studying certain subjects. If you have concerns regarding your personal situation, consider postponing taking a course with manifest risks, until you are back on campus or reach out to your academic advisor to find substitute courses. For further information and support, please visit: http://academic.ubc.ca/support-resources/freedom-expression.*
 
 ## Land Acknowledgement
 
 UBC’s Point Grey Campus is located on the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) peple. The land it is situated on has always been a place of learning for the Musqueam people, who for millennia have passed on their culture, history, and traditions from one generation to the next on this site.
 
-It’s important that this recognition of Musqueam territory and our relationship with the Musqueam people does not appear as just a formality. Take a moment to appreciate the meaning behind the words we use:
+It is important that this recognition of Musqueam territory and our relationship with the Musqueam people does not appear as just a formality. Take a moment to appreciate the meaning behind the words we use:
 
 **TRADITIONAL** recognizes lands traditionally used and/or occupied by the Musqueam people or other First Nations in other parts of the country.
 
