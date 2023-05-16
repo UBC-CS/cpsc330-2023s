@@ -91,10 +91,7 @@ The following sections provide for more detailed course schedule.
 - All lecture files are subject to change without notice up until they are covered in class.
 - You are expected to watch the "Pre-watch" videos before each lecture.
 - You are expected to attend the lectures.
-
-
-- Watch the "Pre-watch" videos before each lecture. 
-- You will find lecture notes from each instructor in this repository. Lectures will be posted as they become available. 
+- You will find the lecture notes under the [lectures](./lectures/) in this repository. Lectures will be posted as they become available. 
 
 |# | Date  | Topic | Assigned videos | vs. CPSC 340 |
 |-|-|-|-|-|
@@ -120,7 +117,7 @@ The following sections provide for more detailed course schedule.
 |17 | Jun 8,9 |  Text data, embeddings, topic modeling  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>   |   new |
 |18 | Jun 13,14 | Neural networks and computer vision ||   less depth |
 |19 | Jun 13,14 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)| new |
-|20 | Jun 15,16 | Survival analysis | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw) |   new |
+|20 | Jun 15,16 | Survival analysis | 📹 (Optional but highly recommended) [Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw) |   new |
 | | | **Part III: Communication, ethics, deployment**  ||
 |21 | Jun 15,16  |  Ethics | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
 |22 | Jun 20,21 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
