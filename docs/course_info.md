@@ -19,7 +19,7 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 
 **Tutorials and office hours**:
-For tutorial and office hours time and locations check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). The tutorials for this class will be run by the TAs and will be in office hours format. The tutorials are **optional**. That said, you will have more one-on-one time with the TAs and you are likely learn more about machine learning in general if take advantage of this.
+For tutorial and office hours time and locations check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330-2023s/blob/master/docs/calendar.html). The tutorials for this class will be run by the TAs and will be in office hours format. The tutorials are **optional**. That said, you will have more one-on-one time with the TAs and you are likely learn more about machine learning in general if take advantage of this.
 
 **Post-lecture office hours**:
 Both the instructor and TA(s) will be present during the post-lecture office hours (which are after each class in the same classroom). During the post-lecture office hours:
@@ -92,7 +92,7 @@ For the full policy on grades, see [this document](grades.md). I understand that
 
 ### Midterm
 
-Check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) for midterm date and time. More details about the midterm will be announced on Piazza closer to the exam time.
+Check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330-2023s/blob/master/docs/calendar.html) for midterm date and time. More details about the midterm will be announced on Piazza closer to the exam time.
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section below. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
 
@@ -104,7 +104,7 @@ Both midterm and final exams will be in-person but online with a BYOD (bring you
 
 ## Academic concessions
 
-UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20190515_V_135_Academic_Concession-Approved.pdf) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." If you would like to request an academic concession, please fill out the [academic concession form](https://github.com/UBC-CS/cpsc330/blob/master/docs/ConcessionForm.pdf), clearly specify what kind of concession are you asking for, and email it to the course coordinator as soon as possible. You may be asked for further documentation. We will evaluate the situation and make a decision on whether to grant the concession and, if so, how to proceed.
+UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20190515_V_135_Academic_Concession-Approved.pdf) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." If you would like to request an academic concession, please fill out the [academic concession form](https://github.com/UBC-CS/cpsc330-2023s/blob/master/docs/ConcessionForm.pdf), clearly specify what kind of concession are you asking for, and email it to the course coordinator as soon as possible. You may be asked for further documentation. We will evaluate the situation and make a decision on whether to grant the concession and, if so, how to proceed.
 
 ## Code of conduct
 
