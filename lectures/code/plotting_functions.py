@@ -10,13 +10,16 @@ from sklearn.pipeline import Pipeline, make_pipeline
 from sklearn.ensemble import RandomForestClassifier
 
 def plot_tree_decision_boundary(
-    model, X, y, x_label="x-axis", y_label="y-axis", eps=None, ax=None, title=None
+    model, X, y, x_label="x-axis", y_label="y-axis", eps=None, ax=None, remove_feature_names=True, title=None
 ):
     if ax is None:
         ax = plt.gca()
 
     if title is None:
         title = "max_depth=%d" % (model.tree_.max_depth)
+
+    if remove_feature_names and hasattr(model, 'feature_names_in_'):
+        delattr(model, 'feature_names_in_')  # delete names to avoid warning message
 
     mglearn.plots.plot_2d_separator(
         model, X.to_numpy(), eps=eps, fill=True, alpha=0.5, ax=ax
@@ -28,7 +31,7 @@ def plot_tree_decision_boundary(
 
 
 def plot_tree_decision_boundary_and_tree(
-    model, X, y, height=6, width=16, x_label="x-axis", y_label="y-axis", eps=None
+    model, X, y, height=6, width=16, x_label="x-axis", y_label="y-axis", eps=None, remove_feature_names=True
 ):
     fig, ax = plt.subplots(
         1,
@@ -37,7 +40,7 @@ def plot_tree_decision_boundary_and_tree(
         subplot_kw={"xticks": (), "yticks": ()},
         gridspec_kw={"width_ratios": [1.5, 2]},
     )
-    plot_tree_decision_boundary(model, X, y, x_label, y_label, eps, ax=ax[0])
+    plot_tree_decision_boundary(model, X, y, x_label, y_label, eps, ax[0], remove_feature_names)
     ax[1].imshow(tree_image(X.columns, model))
     ax[1].set_axis_off()
     plt.show()
