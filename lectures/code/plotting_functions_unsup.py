@@ -1053,7 +1053,7 @@ def print_hierarchical_clusters(X_people, y_people, target_names, cluster_labels
 def plot_multiclass_lr_ovr(lr, X_train, y_train, n_classes, test_points=None, decision_boundary=False):
     mglearn.discrete_scatter(X_train[:, 0], X_train[:, 1], y_train)
     line = np.linspace(-15, 15)
-    colors = ['b','g','r','c', 'm','y', 'bisque', 'olivedrab']
+    colors = ['b', 'r', 'g', 'c', 'm', 'y', 'bisque', 'olivedrab']
     for coef, intercept, color in zip(lr.coef_, lr.intercept_, colors[:n_classes]):
         plt.plot(line, -(line * coef[0] + intercept) / coef[1], c=color)
     plt.ylim(-10, 15)

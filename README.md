@@ -46,7 +46,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 * [Piazza](https://piazza.com/class/lh56brmyztm540) (this is where all **announcements** will be made)
 * [*Setting up coding environment*](https://github.com/UBC-CS/cpsc330-2023s/blob/main/docs/setup.md)
 * [Other course documents](https://github.com/UBC-CS/cpsc330-2023s/tree/main/docs)
-* iClicker Cloud (coming soon)
+* iClicker Cloud (available in Canvas)
 
 ## Compact course schedule (tentative)
 |IMPORTANT NOTE|
@@ -81,7 +81,7 @@ The following sections provide for more detailed course schedule.
 | hw6 | June 13, 13:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2023s/tree/main/hw/) | [Gradescope](https://www.gradescope.ca/courses/10821)|
 | hw7 | June 17, 13:00  |   [Github repo](https://github.com/UBC-CS/cpsc330-2023s/tree/main/hw/) | [Gradescope](https://www.gradescope.ca/courses/10821)|
 | hw8 | June 22, 13:00 |   [Github repo](https://github.com/UBC-CS/cpsc330-2023s/tree/main/hw/) | [Gradescope](https://www.gradescope.ca/courses/10821) |
-| **Final exam** | TBA | Location: TBA | [Canvas](https://canvas.ubc.ca/courses/117814) |
+| **Final exam** | Jun 27, 08:30 | [Final exam schedule](https://students.ubc.ca/enrolment/exams/exam-schedule) | [Canvas](https://canvas.ubc.ca/courses/117814) |
 
 
 ## Lecture schedule (tentative)
@@ -112,7 +112,7 @@ The following sections provide for more detailed course schedule.
 | | Jun 5 | **Midterm**  |  |
 | |  | **Part II: Unsupervised learning, transfer learning, different learning settings**  ||
 |14 | Jun 6,7 |   Clustering | 📹 <li>Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8),[14.2](https://youtu.be/s6AvSZ1_l7I),[14.3](https://youtu.be/M5ilrhcL0oY)</li>   | less depth |
-|15 | Jun 6,7 |   More clustering | <li> Post-lecture: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU), [201 lecture recording](https://ubc.zoom.us/rec/share/w5u5E2wogGUTcwYvRbHd-TH7ix4WwY1JXrlvd7WvqD6ERjg7eYOApKcvsn0uZkom.QVa__I6MgP-d4ji_?startTime=1678844657000)</li> | less depth |
+|15 | Jun 6,7 |   More clustering | <li> Post-lecture: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU)</li> | less depth |
 |16 | Jun 8,9 |   Simple recommender systems |None | less depth ||
 |17 | Jun 8,9 |  Text data, embeddings, topic modeling  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>   |   new |
 |18 | Jun 13,14 | Neural networks and computer vision ||   less depth |
